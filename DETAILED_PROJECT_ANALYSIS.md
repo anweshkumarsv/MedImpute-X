@@ -10,7 +10,6 @@
 7. [Data Processing Workflow](#data-processing-workflow)
 8. [Model Training & Inference](#model-training--inference)
 9. [Key Technical Innovations](#key-technical-innovations)
-10. [Interview Preparation Guide](#interview-preparation-guide)
 
 ---
 
